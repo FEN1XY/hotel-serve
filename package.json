@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "A Strapi application",
   "scripts": {
-    "develop": "strapi develop",
+    "dedvelop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
@@ -14,7 +14,8 @@
     "@strapi/plugin-i18n": "4.13.6",
     "@strapi/plugin-users-permissions": "4.13.6",
     "@strapi/strapi": "4.13.6",
-    "better-sqlite3": "8.6.0"
+    "better-sqlite3": "8.6.0",
+    "strapi": "^3.6.11"
   },
   "author": {
     "name": "A Strapi developer"
